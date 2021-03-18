@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React TypeScript Talk
+
+🎉 🥳 🎈 Slides for SFDevs React + TypeScript talk (3/18/21)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

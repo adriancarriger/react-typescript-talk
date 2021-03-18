@@ -1,0 +1,6 @@
+# This is here to prevent `yarn generate` from failing.
+query placeholderQuery {
+  __schema {
+    description
+  }
+}

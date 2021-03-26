@@ -2,6 +2,14 @@
 
 🎉 🥳 🎈 Slides for SFDevs React + TypeScript talk (3/18/21)
 
+## Video
+
+[![video](https://img.youtube.com/vi/8rNIT-_gLK4/0.jpg)](https://www.youtube.com/watch?v=8rNIT-_gLK4)
+
+## Slides and live examples
+
+[https://react-typescript-talk.netlify.app](https://react-typescript-talk.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
